@@ -10,7 +10,11 @@ composer update
 ```
 
 
-+ Change env variables for database in .env(root folder) file 
++ copy .env.example file from root folder
+
++ past and remove .example from name from new file
+
++ set your database credentials in new .env file 
 
 
 
